@@ -81,6 +81,7 @@ A real-time collaboration platform for influencers and businesses.
 
 ---
 🧠 Research & Creative Interests
+
 Creative AI Workflows: I build and refine automated pipelines for image and video generation using local Stable Diffusion instances alongside model-based generation (Grok, Veo3) to explore the intersection of machine learning and artistic expression.
 
 Human-Centric Research: Deeply curious about the intersection of neuroscience, psychology, and machine learning. I actively research human brain functionality and the cognitive effects of psychedelics, aiming to understand how these biological models can inspire more resilient and "human-aligned" AI architectures.

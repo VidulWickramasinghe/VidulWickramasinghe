@@ -1,67 +1,135 @@
 # Hi, I'm Vidul Wickramasinghe 👋
 
-💻 Software Engineer  
-🚀 MERN Stack Developer  
-📍 Sri Lanka  
+AI-First Software Engineer | Modern Builder 
 
-I enjoy building scalable web applications and experimenting with new technologies.  
-Currently focused on full-stack development using the MERN stack and building real-world systems.
+I am an AI-driven developer who thrives in the "flow" of building high-performance applications at light speed. Specializing in React 19 and local LLM integration, I combine technical precision with a keen eye for UI/UX to turn complex ideas into seamless digital experiences.
 
 ---
 
-## 🚀 Current Work
+## 💼 Work Experience
 
-🔹 **PayoutWatch**  
-A verification platform for prop firm payouts using video proof and blockchain/open-banking verification.
+### **Software Engineer Intern** | Parliament of Sri Lanka
 
-🔹 **Orthodontic Laboratory Job Management System**  
-A full MERN stack application for the Faculty of Dental Sciences to manage lab jobs, cases, and workflow.
+*Sep 2025 – Present* 
+
+* Developing and maintaining internal web applications using PHP and MySQL.
+
+
+* Building critical systems including a **Meal Management System**, **Translation Management System**, and **Intern Management System**.
+
+
+* Designing optimized MySQL databases and implementing role-based access control.
+
+
+* Collaborating on AI-powered solutions and backend API integrations.
+
+---
+
+## 🚀 Featured Projects
+
+### **[vidul-cli](https://github.com/VidulWickramasinghe)**
+
+An autonomous CLI tool that uses local LLMs to scan, explain, and refactor codebases.
+
+* 
+**Stack:** Node.js, AI, Ollama.
+
+
+* 
+**Key Features:** Smart file selection, token optimization for 6GB VRAM GPUs, and automated syntax validation.
+
+
+* 
+**Privacy:** Provides a secure, private alternative to cloud-based AI assistants by running entirely on local hardware.
+
+
+
+### **[PayoutWatch](https://github.com/VidulWickramasinghe)**
+
+A prop firm payout verification platform designed to ensure financial transparency.
+
+* 
+**Stack:** MERN Stack (MongoDB, Express, React, Node.js).
+
+
+* 
+**Key Features:** Verification of trading payouts using video and blockchain proof, featuring user submissions and leaderboards.
+
+
+
+### **[Communeo](https://github.com/VidulWickramasinghe)**
+
+A real-time collaboration platform for influencers and businesses.
+
+* 
+**Stack:** Node.js, Express, MongoDB, React Query, OpenAI API.
+
+
+* 
+**Key Features:** AI-driven analytics for campaign optimization and a real-time performance dashboard.
+
+
+
+### **[Place Management System](https://github.com/VidulWickramasinghe)**
+
+An aviation-context application for managing seat reservations and optimizing assortment.
+
+* 
+**Stack:** Java Springboot.
+
+
+* 
+**Key Features:** Smoothens reservation processes and improves operational efficiency.
+
+
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React
-- JavaScript
-- HTML / CSS
+| Category | Technologies |
+| --- | --- |
+| **AI Workflow** | Cursor, Claude, Google Antigravity, Ollama (Local LLM Integration) 
 
-**Backend**
-- Node.js
-- Express.js
+ |
+| **Frontend** | React 19, Vite, Tailwind CSS, JavaScript (ES6+) 
 
-**Database**
-- MongoDB
+ |
+| **Backend & DB** | PHP, MySQL, Node.js, MongoDB, Java Springboot 
 
-**Tools**
-- Git
-- Docker
-- Postman
-- VS Code
+ |
+| **Design** | UI/UX Component Design, Mobile-First Architecture, Figma 
+
+ |
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
 
-![Vidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidulWickramasinghe&show_icons=true)
+* **BSc. Computer Science Undergraduate** (2023–2026) | University of Westminster 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidulWickramasinghe&layout=compact)
 
----
+* **Foundations (Merit)** (2023) | Informatics Institute of Technology 
 
-## 🌱 Currently Learning
 
-- System design
-- Scalable backend architecture
-- DevOps and containerization
+* **Advanced Levels** (2018–2021) | Trinity College Kandy 
+
+
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR-LINK  
-GitHub: https://github.com/VidulWickramasinghe
+* 
+**Email:** [vidulwickramasinghe@gmail.com]() 
 
----
 
-⭐️ *Always building, always learning.*
+* 
+**LinkedIn:** [linkedin.com/in/vidulwickramasinghe](https://www.google.com/search?q=https://linkedin.com/in/vidulwickramasinghe) 
+
+
+* 
+**Location:** Malabe, Colombo 
+
+
+

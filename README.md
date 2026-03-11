@@ -80,6 +80,12 @@ A real-time collaboration platform for influencers and businesses.
 * **⚡ Beyond the Code:** I am also a professional Tourist Driver for an EV fleet (Nissan Leaf/BYD Atto 3), combining a passion for sustainable travel with high-tech software solutions.
 
 ---
+🧠 Research & Creative Interests
+Creative AI Workflows: I build and refine automated pipelines for image and video generation using local Stable Diffusion instances alongside model-based generation (Grok, Veo3) to explore the intersection of machine learning and artistic expression.
+
+Human-Centric Research: Deeply curious about the intersection of neuroscience, psychology, and machine learning. I actively research human brain functionality and the cognitive effects of psychedelics, aiming to understand how these biological models can inspire more resilient and "human-aligned" AI architectures.
+
+⚡ Beyond the Code: When I'm not behind a keyboard, I manage a personal fleet of electric vehicles. Working as a Tourist Driver allows me to blend my passion for sustainable, eco-friendly travel with a hands-on approach to fleet maintenance and high-quality customer service.
 
 ## 📫 Connect With Me
 

@@ -70,7 +70,7 @@ A real-time collaboration platform for influencers and businesses.
 
 
 
-### **[Place Management System](https://github.com/VidulWickramasinghe)**
+### **[Plane Management System](https://github.com/VidulWickramasinghe)**
 
 An aviation-context application for managing seat reservations and optimizing assortment.
 

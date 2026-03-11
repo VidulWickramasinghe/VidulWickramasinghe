@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Vidul Wickramasinghe 👋
 
-<!--
-**VidulWickramasinghe/VidulWickramasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer  
+🚀 MERN Stack Developer  
+📍 Sri Lanka  
 
-Here are some ideas to get you started:
+I enjoy building scalable web applications and experimenting with new technologies.  
+Currently focused on full-stack development using the MERN stack and building real-world systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Work
+
+🔹 **PayoutWatch**  
+A verification platform for prop firm payouts using video proof and blockchain/open-banking verification.
+
+🔹 **Orthodontic Laboratory Job Management System**  
+A full MERN stack application for the Faculty of Dental Sciences to manage lab jobs, cases, and workflow.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- JavaScript
+- HTML / CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git
+- Docker
+- Postman
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Vidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidulWickramasinghe&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidulWickramasinghe&layout=compact)
+
+---
+
+## 🌱 Currently Learning
+
+- System design
+- Scalable backend architecture
+- DevOps and containerization
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/YOUR-LINK  
+GitHub: https://github.com/VidulWickramasinghe
+
+---
+
+⭐️ *Always building, always learning.*

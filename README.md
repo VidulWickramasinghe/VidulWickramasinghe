@@ -1,135 +1,89 @@
 # Hi, I'm Vidul Wickramasinghe 👋
 
-AI-First Software Engineer | Modern Builder 
+**AI-First Software Engineer | Modern Builder**
 
 I am an AI-driven developer who thrives in the "flow" of building high-performance applications at light speed. Specializing in React 19 and local LLM integration, I combine technical precision with a keen eye for UI/UX to turn complex ideas into seamless digital experiences.
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
 ### **Software Engineer Intern** | Parliament of Sri Lanka
 
-*Sep 2025 – Present* 
+*Sep 2025 – Present*
 
-* Developing and maintaining internal web applications using PHP and MySQL.
-
-
-* Building critical systems including a **Meal Management System**, **Translation Management System**, and **Intern Management System**.
-
-
-* Designing optimized MySQL databases and implementing role-based access control.
-
-
-* Collaborating on AI-powered solutions and backend API integrations.
+* **Meal Management System:** Analyzed and documented the architecture for the Parliament’s internal catering operations, focusing on system maintainability and workflow automation.
+* **System Engineering:** Developing and maintaining internal web applications using PHP and MySQL, including Translation and Intern Management systems.
+* **Innovation:** Actively contributing to internal innovation projects and AI-powered solutions.
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 AI & Innovation Projects
 
 ### **[vidul-cli](https://github.com/VidulWickramasinghe)**
 
 An autonomous CLI tool that uses local LLMs to scan, explain, and refactor codebases.
 
-* 
-**Stack:** Node.js, AI, Ollama.
+* **Stack:** Node.js, AI, Ollama.
+* **Core Concepts:** AI Agents, Context Injection, Token Management, and AST/Syntax Validation.
+* **Impact:** Provides a secure, private alternative to cloud-based AI assistants by running entirely on local hardware.
 
+### **[Kadiya Bot Instance](https://github.com/VidulWickramasinghe)**
 
-* 
-**Key Features:** Smart file selection, token optimization for 6GB VRAM GPUs, and automated syntax validation.
+A modular Telegram automation bot designed for scalable, multi-instance deployment.
 
+* **Stack:** Node.js, Telegram Bot API.
+* **Key Features:** Automated command handling, external API integration, and modular architecture for future expansion.
 
-* 
-**Privacy:** Provides a secure, private alternative to cloud-based AI assistants by running entirely on local hardware.
+---
 
+## 🛠 Featured System Projects
 
+### **Orthodontic Laboratory Job Management System**
 
-### **[PayoutWatch](https://github.com/VidulWickramasinghe)**
+*Client: Faculty of Dental Sciences, University of Peradeniya*
+A full-stack MERN application that digitizes the entire orthodontic lab workflow, replacing manual records with a centralized digital platform.
 
-A prop firm payout verification platform designed to ensure financial transparency.
+* **Responsibilities:** Designed the full MERN architecture, implemented REST APIs for case tracking, and built a responsive dashboard for doctors and technicians.
 
-* 
-**Stack:** MERN Stack (MongoDB, Express, React, Node.js).
+### **PayoutWatch**
 
+A verification platform focused on financial transparency for trading payouts.
 
-* 
-**Key Features:** Verification of trading payouts using video and blockchain proof, featuring user submissions and leaderboards.
+* **Stack:** MERN Stack.
+* **Key Features:** Uses video and blockchain proof, featuring user submissions, a moderation workflow, and a leaderboard system.
 
-
-
-### **[Communeo](https://github.com/VidulWickramasinghe)**
+### **Communeo**
 
 A real-time collaboration platform for influencers and businesses.
 
-* 
-**Stack:** Node.js, Express, MongoDB, React Query, OpenAI API.
-
-
-* 
-**Key Features:** AI-driven analytics for campaign optimization and a real-time performance dashboard.
-
-
-
-### **[Plane Management System](https://github.com/VidulWickramasinghe)**
-
-An aviation-context application for managing seat reservations and optimizing assortment.
-
-* 
-**Stack:** Java Springboot.
-
-
-* 
-**Key Features:** Smoothens reservation processes and improves operational efficiency.
-
-
+* **Stack:** Node.js, Express, MongoDB, React Query, OpenAI API.
+* **Key Features:** AI-driven analytics for campaign optimization and real-time performance dashboards.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Expertise
 
 | Category | Technologies |
 | --- | --- |
-| **AI Workflow** | Cursor, Claude, Google Antigravity, Ollama (Local LLM Integration) 
-
- |
-| **Frontend** | React 19, Vite, Tailwind CSS, JavaScript (ES6+) 
-
- |
-| **Backend & DB** | PHP, MySQL, Node.js, MongoDB, Java Springboot 
-
- |
-| **Design** | UI/UX Component Design, Mobile-First Architecture, Figma 
-
- |
+| **Full-Stack** | React 19, Vite, Tailwind CSS, Node.js, Express, PHP |
+| **AI/ML** | Local LLM Integration (Ollama), RAG, Cursor, Claude |
+| **Database** | MongoDB, MySQL |
+| **Architecture** | REST API Design, Role-Based Access (RBAC), Mobile-First Design |
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Beyond
 
-* **BSc. Computer Science Undergraduate** (2023–2026) | University of Westminster 
-
-
-* **Foundations (Merit)** (2023) | Informatics Institute of Technology 
-
-
-* **Advanced Levels** (2018–2021) | Trinity College Kandy 
-
-
+* **BSc. Computer Science Undergraduate** (2023–2026) | University of Westminster
+* **Foundations (Merit)** | IIT Colombo
+* **⚡ Beyond the Code:** I am also a professional Tourist Driver for an EV fleet (Nissan Leaf/BYD Atto 3), combining a passion for sustainable travel with high-tech software solutions.
 
 ---
 
 ## 📫 Connect With Me
 
-* 
-**Email:** [vidulwickramasinghe@gmail.com]() 
+* **Email:** [vidulwickramasinghe@gmail.com]()
+* **LinkedIn:** [linkedin.com/in/vidulwickramasinghe](https://www.google.com/search?q=https://linkedin.com/in/vidulwickramasinghe)
 
-
-* 
-**LinkedIn:** [linkedin.com/in/vidulwickramasinghe](https://www.google.com/search?q=https://linkedin.com/in/vidulwickramasinghe) 
-
-
-* 
-**Location:** Malabe, Colombo 
-
-
-
+---
